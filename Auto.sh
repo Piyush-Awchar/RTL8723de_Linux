@@ -1,5 +1,6 @@
 sudo su
 sudo apt-get install linux-headers-generic build-essential git
+cd Downloads   
 git clone https://github.com/Piyush-Awchar/RTL8723de_Linux.git
 cd RTL8723de_Linux
 unzip -q RTL8723de.zip
