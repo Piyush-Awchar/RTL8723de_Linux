@@ -4,8 +4,8 @@
  
  Download Auto.sh file and run by this command without ("") commas
  
- "chmod +x Auto.sh"
- "sh Auto.sh"
+1. "chmod +x Auto.sh"     
+2. "sh Auto.sh"   
 
  
  # Manual Method
