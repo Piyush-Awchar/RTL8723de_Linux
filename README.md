@@ -35,3 +35,7 @@ and rtl8723de. The rtl8723de is available ONLY in the extended branch, which is 
 
  sudo modprobe -r YOUR WIRELESS DRIVER CODE    
  sudo modprobe YOUR WIRELESS DRIVER CODE     
+ 
+ 
+ 
+ # Still have issue feel free to reach me out at piyush.awchar.03@gmail.com 
