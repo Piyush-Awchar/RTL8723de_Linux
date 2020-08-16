@@ -4,7 +4,7 @@ and rtl8723de. The rtl8723de is available ONLY in the extended branch, which is 
 
  You can find YOUR WIRELESS DRIVER CODE using 
  
- lspci | grep Wireless  
+ lspci | grep Network  
 
  # Automatic Scripted Method
  
