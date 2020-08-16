@@ -1,4 +1,14 @@
  # Drivers
+ 
+ # Automatic Scripted Method
+ 
+ Download Auto.sh file and run by this command without ("") commas
+ 
+ "chmod +x Auto.sh"
+ "sh Auto.sh"
+
+ 
+ # Manual Method
 It includes the following drivers:
 rtl8192ce, rtl8192cu, rtl8192se, rtl8192de, rtl8188ee, rtl8192ee, rtl8723ae, rtl8723be, rtl8821ae,
 and rtl8723de. The rtl8723de is available ONLY in the extended branch, which is the recommended one.
