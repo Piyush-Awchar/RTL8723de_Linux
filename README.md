@@ -29,7 +29,7 @@ and rtl8723de. The rtl8723de is available ONLY in the extended branch, which is 
  make     
  sudo make install    
 
-After Install
+# After Install
 
  sudo su   
  echo "options rtl8723be ant_sel=2" > /etc/modprobe.d/50-rtl8723be.conf   
