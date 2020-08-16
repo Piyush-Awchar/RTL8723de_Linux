@@ -2,7 +2,7 @@
  
  # Automatic Scripted Method
  
- Download Auto.sh file and run by this command without ("") commas
+ Download Auto.sh file and run this command i termial without ("") commas
  
 1. "chmod +x Auto.sh"     
 2. "sh Auto.sh"   
