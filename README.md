@@ -19,7 +19,7 @@ and rtl8723de. The rtl8723de is available ONLY in the extended branch, which is 
  You will need to install "make", "gcc", "kernel headers", "kernel build essentials", and "git" 
  
  sudo apt-get install linux-headers-generic build-essential git   
- cd Downloads
+ cd Downloads   
  git clone https://github.com/Piyush-Awchar/RTL8723de_Linux.git       
  cd RTL8723de_Linux        
  unzip -q RTL8723de.zip      
